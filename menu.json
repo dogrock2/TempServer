@@ -1,4 +1,5 @@
 [
+    
     {
         "name": "Sandwich1",
         "type": "Hot Foods",
@@ -10,8 +11,13 @@
         "size": [
             "6in",
             "12in"
+        ],
+        "price": [
+            "$5.99",
+            "$8.99"
         ]
     },
+    
     {
         "name": "Sandwich2",
         "type": "Cold Foods",
@@ -23,8 +29,13 @@
         "size": [
             "6in",
             "12in"
+        ],
+        "price": [
+            "$5.99",
+            "$8.99"
         ]
     },
+    
     {
         "name": "Sandwich3",
         "type": "Hot Foods",
@@ -36,6 +47,11 @@
         "size": [
             "6in",
             "12in"
+        ],
+        "price": [
+            "$5.99",
+            "$8.99"
         ]
     }
+    
 ]
