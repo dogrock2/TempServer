@@ -1,61 +1,41 @@
-[{
-    "coldFoods":{
-        "coldCutsSandwich":{
-            "size":["6in","1ft"],
-            "bread":["white","wheat"]
-        },
-        "chickenSaladSandwich":{
-            "size":["6in","1ft"],
-            "bread":["white","wheat"]
-        }
+[
+    {
+        "name": "Sandwich1",
+        "type": "Hot Foods",
+        "ingredients": [
+            "ham",
+            "egg",
+            "cheese"
+        ],
+        "size": [
+            "6in",
+            "12in"
+        ]
+    },
+    {
+        "name": "Sandwich2",
+        "type": "Cold Foods",
+        "ingredients": [
+            "ham",
+            "salami",
+            "cheese"
+        ],
+        "size": [
+            "6in",
+            "12in"
+        ]
+    },
+    {
+        "name": "Sandwich3",
+        "type": "Hot Foods",
+        "ingredients": [
+            "chkn",
+            "sauce",
+            "parm"
+        ],
+        "size": [
+            "6in",
+            "12in"
+        ]
     }
-    
-},{
-    "hotFoods":{
-        "meatballParm":{
-            "size":["6in","1ft"],
-            "ingredients":["tomatoeSauce","meatBalls","cheese"],
-            "bread":["white","wheat"]
-        },
-        "grilledChickenSandwich":{
-            "size":["6in","1ft"],
-            "ingredients":["grilledChicken","lettuce","tomatoes","mayo"],
-            "bread":["white","wheat"]
-        },
-        "chickenCutletSandwich":{
-            "size":["6in","1ft"],
-            "ingredients":["breadedChicken","lettuce","tomatoes","mayo", "onions"],
-            "bread":["white","wheat"]
-        },
-        "ricePlatter":{
-            "size":["small","large"],
-            "ingredients":["Rice","Beans","Fries"],
-            "meat":["chicken","beef","pork"]
-        }
-    }
-},{
-    "drinks":{
-        "sodas":["Coke","Sprite","Orange","GingerAle","Grape"],
-        "juice":["Orange","Apple","Grape","Lemon"],
-        "water":["PolandSpring","DeerPark"]
-    }
-},{
-    "pastries":{
-        "donuts":["chocolate","powdered","plain","sugar"],
-        "cake":["chocolate","yellow","strawberry"],
-        "cupcake":["chocolate","vanilla","chocolateVanilla"]
-    }
-},{
-    "candies":{
-        "chocolate":["Snickers","Twix","Reeses"],
-        "hard":["JollyRanchers","starburst"]
-    }
-},{
-    "sides":{
-        "chips":["Doritos","CornChips","Tostitos"],
-        "pickle":["Whole","Spear","diced"],
-        "salad":["green","macaroni","potatoe"]
-        
-    }
-}
 ]
