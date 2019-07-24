@@ -1,5 +1,5 @@
 {
-  coldFoods:{
+  "coldFoods":{
     "coldCutsSandwich":{
       "size":["6in","1ft"],
       "bread":["white","wheat"]
@@ -9,7 +9,7 @@
       "bread":["white","wheat"]
     }
   },
-  hotFoods:{
+  "hotFoods":{
     "meatballParm":{
       "size":["6in","1ft"],
       "ingredients":["tomatoeSauce","meatBalls","cheese"],
@@ -31,12 +31,12 @@
       "meat":["chicken","beef","pork"]
     }
   },
-  drinks:{
+  "drinks":{
     "sodas":["Coke","Sprite","Orange","GingerAle","Grape"],
     "juice":["Orange","Apple","Grape","Lemon"],
     "water":["PolandSpring","DeerPark"]
   },
-  pastries:{
+  "pastries":{
     "donuts":["chocolate","powdered","plain","sugar"],
     "cake":["chocolate","yellow","strawberry"],
     "cupcake":["chocolate","vanilla","chocolateVanilla"]
@@ -45,7 +45,7 @@
     "chocolate":["Snickers","Twix","Reeses"],
     "hard":["JollyRanchers","starburst"]
   },
-  sides:{
+  "sides":{
     "chips":["Doritos","CornChips","Tostitos"],
     "pickle":["Whole","Spear","diced"],
     "salad":["green","macaroni","potatoe"]
